@@ -2,9 +2,9 @@
 
 [![Linkedin: Igor Leon](https://img.shields.io/badge/-Igor%20Leon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorleon0/)](https://www.linkedin.com/in/igorleon0/)
 
-Atualmente sou um estudante de Ánalise e Desenvolvimento de Sistemas, estou me especializando na linguagem Java e em outras ferramentas comumente utilizadas.
+Atualmente sou um estudante de Análise e Desenvolvimento de Sistemas, estou me especializando na linguagem Java e em outras ferramentas comumente utilizadas.
 
-- 🎓 Cursando o 1º período de Ánalise e Desenvolvimento de Sistemas
+- 🎓 Cursando o 1º período de Análise e Desenvolvimento de Sistemas
 
 - 👨‍💻 Estudando Java, OO, MySQL, JDBC e JPA
 
