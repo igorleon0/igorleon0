@@ -1,9 +1,7 @@
 <h2><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá, me chamo Igor Leon, sou Desenvolvedor Java</h2>
 
-[![Linkedin: Igor Leon](https://img.shields.io/badge/-Igor%20Leon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorleon0/)](https://www.linkedin.com/in/igorleon0/)
 
-<a href="mailto:igorleon06@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white"/>
-  </a>
+[![Linkedin: Igor Leon](https://img.shields.io/badge/-Igor%20Leon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorleon0/)](https://www.linkedin.com/in/igorleon0/)
 
 Atualmente sou um estudante de Análise e Desenvolvimento de Sistemas, estou me especializando na linguagem Java e em outras ferramentas comumente utilizadas.
 
@@ -16,6 +14,12 @@ Atualmente sou um estudante de Análise e Desenvolvimento de Sistemas, estou me 
 - 📚 Aluno da Academia Java Full Stack na Fuctura
 
 <img align="right" src="https://user-images.githubusercontent.com/55079945/161896032-7a676b00-0dd2-415f-ba7b-04d6eaa519e7.gif" height="200" width="200"/></a>
+
+<p align="center"> 
+  <a href="mailto:igorleon06@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=forthebadge&logo=gmail&logoColor=white"/>
+  </a> 
+
+
 
 
 ## 🛠 &nbsp;Tech Stack
