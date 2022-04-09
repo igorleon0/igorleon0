@@ -13,16 +13,16 @@ Atualmente sou um estudante de Análise e Desenvolvimento de Sistemas, estou me 
 
 - 📚 Aluno da Academia Java Full Stack na Fuctura
 
+
 <img align="right" src="https://user-images.githubusercontent.com/55079945/161896032-7a676b00-0dd2-415f-ba7b-04d6eaa519e7.gif" height="200" width="200"/></a>
+
+#
 
 <p align="center"> 
   <a href="mailto:igorleon06@gmail.com" alt="Email" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=forthebadge&logo=gmail&logoColor=white"/>
   </a> 
 
-
-
-
-## 🛠 &nbsp;Tech Stack
+  ## 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
