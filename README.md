@@ -1,6 +1,6 @@
 <h2><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá, me chamo Igor Leon, sou Desenvolvedor Java</h2>
 
-Atualmente sou um estudante de Análise e Desenvolvimento de Sistemas, estou me especializando na linguagem Java e em outras ferramentas comumente utilizadas.
+ **Atualmente sou um estudante de Análise e Desenvolvimento de Sistemas, estou me especializando na linguagem Java e em outras ferramentas comumente utilizadas.**
 
 - 🎓 Cursando o 1º período de Análise e Desenvolvimento de Sistemas
 
