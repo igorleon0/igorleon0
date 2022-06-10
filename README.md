@@ -1,17 +1,14 @@
-<h2><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá, me chamo Igor Leon, sou Desenvolvedor Java</h2>
+<h2>Olá, me chamo Igor Leon, sou Desenvolvedor Java</h2>
 
  **Atualmente sou um estudante de Análise e Desenvolvimento de Sistemas, estou me especializando na linguagem Java e em outras ferramentas comumente utilizadas.**
 
-- 🎓 Cursando o 1º período de Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando o 1º período de Análise e Desenvolvimento de Sistemas.
 
-- 👨‍💻 Estudando Java, OO, MySQL, JDBC e JPA
+- 👨‍💻 Estudando Java OO, SQL, Oracle DB.
 
-- ♨ Participando do programa ONE da Oracle
-
-- 📚 Aluno da Academia Java Full Stack na Fuctura
+- 📚 Participando da Academia Java Full Stack na Fuctura.
 
 
-<img align="right" src="https://user-images.githubusercontent.com/55079945/161896032-7a676b00-0dd2-415f-ba7b-04d6eaa519e7.gif" height="200" width="200"/></a>
 
 #
 
