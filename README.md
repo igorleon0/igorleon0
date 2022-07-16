@@ -2,7 +2,7 @@
 
  **Atualmente sou um estudante de Análise e Desenvolvimento de Sistemas, estou me especializando na linguagem Java e em outras ferramentas comumente utilizadas.**
 
-- 🎓 Cursando o 1º período de Análise e Desenvolvimento de Sistemas.
+- 🎓 Cursando o 2º período de Análise e Desenvolvimento de Sistemas.
 
 - 👨‍💻 Estudando Java OO, SQL, Oracle DB.
 
@@ -21,13 +21,13 @@
     
   </a> 
   
-  ## 🛠 &nbsp;Tech Stack
+  ## :computer: Tech Stack
+  
+ ![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=flat-square&logo=windows&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
