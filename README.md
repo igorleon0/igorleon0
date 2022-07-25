@@ -4,7 +4,7 @@
 
 - 🎓 Cursando o 2º período de Análise e Desenvolvimento de Sistemas.
 
-- 👨‍💻 Estudando Java OO, SQL, Oracle DB.
+- 👨‍💻 Estudando Java OO, SQL.
 
 - 📚 Participando da Academia Java Full Stack na Fuctura.
 
@@ -24,6 +24,7 @@
   ## :computer: Tech Stack
   
  ![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-squaree&logo=eclipse&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=flat-square&logo=windows&logoColor=white)
